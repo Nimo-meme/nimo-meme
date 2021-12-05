@@ -1,4 +1,5 @@
-### Hi there 👋
+### The nimo meme project designed for cute cats to be cuter every day!
+
 
 <!--
 **Nimo-meme/nimo-meme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
